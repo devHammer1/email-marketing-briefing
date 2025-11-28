@@ -40,7 +40,7 @@ Since this project consists of a single HTML file, no complex installation or en
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPO_URL_HERE]
+    git clone [REPO_URL_HERE]
     ```
 2.  **Open Locally:** Navigate to the cloned folder and open the `index.html` file in any modern web browser (Chrome, Firefox, Edge, Safari).
 
